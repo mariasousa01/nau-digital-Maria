@@ -1,7 +1,36 @@
+*{
+
+    margin: 10px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
 body {
-    background-color: rgb(173, 228, 230);
+     margin: 10px;
+     background-color: rgb(59, 197, 179);
     
-  }
+   }
+.Logomarca{
+
+      width: 150px;
+      height: 50px;
+      background-color: antiquewhite;
+      margin: 10px;
+}
+.menu{
+      width: 1500px;
+      height: 100px;
+      background-color: rgb(98, 155, 147);
+      margin: 10px;
+      
+}
+#banner{
+      width: 1500px;
+      height: 100px;
+      background-color: rgb(159, 215, 230);
+      }
+    
   
   h1 {
     color: rgb(255, 255, 255);
@@ -15,6 +44,6 @@ body {
     font-family: 'Times New Roman', Times, serif;
     font-size: 50px;
     text-align: center;
-
+    
   }
   
